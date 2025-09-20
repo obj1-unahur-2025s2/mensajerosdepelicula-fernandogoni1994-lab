@@ -1,9 +1,23 @@
 object pepita {
-  var energy = 100
+  //Closure
+  // var to = "mundo"
+  // const holaMundo = {"Hola " + to}
+  // var resultado = holaMundo.apply()
 
-  method energy() = energy
+  // method resultado(){
+  //   return resultado
+  // }
 
-  method fly(minutes) {
-    energy = energy - minutes * 3
-  }
+  //devuelve "Hola mundo"
+
+
+  
+
+
+
+
+  
+
+
+
 }
